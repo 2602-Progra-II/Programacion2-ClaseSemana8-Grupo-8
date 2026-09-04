@@ -1,5 +1,5 @@
 public class clase {
-    private String nombre = "-Arciyipi-";
+    private String nombre = "Amilcar";
     private String correo;
     private String telefono;
 
