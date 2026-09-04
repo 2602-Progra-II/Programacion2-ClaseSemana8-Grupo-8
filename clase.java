@@ -1,5 +1,6 @@
 public class clase {
     private String nombre = "-Arciyipi-";
+    private int edad = 20;
     private String correo;
     private String telefono;
 
