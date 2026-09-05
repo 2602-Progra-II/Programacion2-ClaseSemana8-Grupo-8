@@ -2,7 +2,7 @@
 public class Estudiante {
     // Atributos o campos comunes
     private String idEstudiante;
-    private String nombre;
+    private String nombre="josue";
     private String apellido;
     private String correoElectronico;
     private String carrera;
