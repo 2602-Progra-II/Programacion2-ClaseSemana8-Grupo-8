@@ -10,7 +10,7 @@ public class Empleado {
     // Constructor completo
     public Empleado(String idEmpleado, String nombre, String apellido, String correoElectronico, String departamento, double salario) {
         this.idEmpleado = idEmpleado;
-        this.nombre = nombre;
+        this.nombre = "Edenilson";
         this.apellido = apellido;
         this.correoElectronico = correoElectronico;
         this.departamento = departamento;
